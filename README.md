@@ -1,5 +1,5 @@
 # **Mobile Crowd Sensing (MCS) Data Analysis with NB and KNN Classifiers Using Differnet Feature Selection Methods**
-Delved into advanced techniques to enhance ML performance during the uOttawa 2023 ML course. This repository offers Python implementations of Naïve Bayes (NB) and K-Nearest Neighbor (KNN) classifiers on the MCS dataset.
+This repository contains Python implementations of Naïve Bayes (NB) and K-Nearest Neighbor (KNN) classifiers applied on the MCS dataset. Explored advanced techniques to improve machine learning performance during the 2023 uOttawa ML course.
 
 - Required libraries: scikit-learn, pandas, matplotlib.
 - Execute cells in a Jupyter Notebook environment.
