@@ -45,7 +45,7 @@ Task is to classify the  MCS dataset legitimacy status: Legitimate / Fake.
        * Best number of n_components PCA-K-Nearest Neighbors: 2
            ![merge_from_ofoct (1)](https://github.com/RimTouny/Mobile-Crowd-Sensing-MCS-Data-Analysis-with-NB-and-KNN-Classifiers/assets/48333870/7c59c64d-2577-41bb-8fd4-49f43f13ee2c)
 
-   4. **Feature Selection with Filter and Wrapper Methods:**
+4. **Feature Selection with Filter and Wrapper Methods:**
       
    - Explored feature selection methods such as Information Gain, Mutual Information, Variance Threshold, and Chi-Square to determine the optimal number of features and analyzed the relationship between the number of features and F1 scores, improving baseline performance.
      ![merge_from_ofoct (2)](https://github.com/RimTouny/Mobile-Crowd-Sensing-MCS-Data-Analysis-with-NB-and-KNN-Classifiers/assets/48333870/10547a76-166a-43a4-8637-72bd12311ee9)
@@ -59,7 +59,7 @@ Task is to classify the  MCS dataset legitimacy status: Legitimate / Fake.
      ![merge_from_ofoct (2)](https://github.com/RimTouny/Mobile-Crowd-Sensing-MCS-Data-Analysis-with-NB-and-KNN-Classifiers/assets/48333870/288b213b-954b-4ffd-83c3-aaa6f5230c1b)
 
 
-   5. **Clustering Analysis using Latitude and Longitude:**
+5. **Clustering Analysis using Latitude and Longitude:**
    - Explored clustering methods (K-means, SOFM, DBSCAN) on latitude and longitude features to identify legitimate-only clusters.
    - Plotted the total number of legitimate-only members in legitimate clusters against different cluster numbers for each algorithm.
      ![merge_from_ofoct (5)](https://github.com/RimTouny/Mobile-Crowd-Sensing-MCS-Data-Analysis-with-NB-and-KNN-Classifiers/assets/48333870/f9bdbda9-6603-4e7f-bf47-b84bc57b612c)
