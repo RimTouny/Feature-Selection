@@ -3,6 +3,8 @@ This repository contains Python implementations of Naïve Bayes (NB) and K-Neare
 
 - Required libraries: scikit-learn, pandas, matplotlib.
 - Execute cells in a Jupyter Notebook environment.
+- The uploaded code has been executed and tested successfully within the [Google Colab](https://colab.google/) environment.
+
 
 ## Binary-class classification problem
 Task is to classify the  MCS dataset legitimacy status: Legitimate / Fake.
